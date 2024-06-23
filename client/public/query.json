@@ -1,0 +1,45 @@
+[
+    {
+      "ProductName": "Echo Dot (4th Gen)",
+      "ProductBrand": "Amazon",
+      "ProductImageURL": "https://example.com/echo-dot-4th-gen.jpg",
+      "QueryTitle": "Is my privacy at risk with this device?",
+      "BoycottingReasonDetails": "I'm worried about how my voice data is being stored and used. Does anyone else feel the privacy isn't up to par?"
+    },
+    {
+      "ProductName": "Galaxy S22 Ultra",
+      "ProductBrand": "Samsung",
+      "ProductImageURL": "https://example.com/galaxy-s22-ultra.jpg",
+      "QueryTitle": "What's the environmental impact of this phone?",
+      "BoycottingReasonDetails": "I read about the negative environmental effects of mining for materials in these phones. It's making me rethink my choices."
+    },
+    {
+      "ProductName": "MacBook Pro 16-inch",
+      "ProductBrand": "Apple",
+      "ProductImageURL": "https://example.com/macbook-pro-16.jpg",
+      "QueryTitle": "Why can't I repair my own MacBook?",
+      "BoycottingReasonDetails": "It's nearly impossible to make simple repairs on this laptop. Anyone else frustrated with the anti-repair policies?"
+    },
+    {
+      "ProductName": "Pixel Buds A-Series",
+      "ProductBrand": "Google",
+      "ProductImageURL": "https://example.com/pixel-buds-a.jpg",
+      "QueryTitle": "Are connectivity issues prevalent with Pixel Buds A-Series?",
+      "BoycottingReasonDetails": "Several users have expressed frustration over persistent connectivity issues with the Pixel Buds A-Series. These problems include frequent disconnections and poor signal stability, even when the connected device is nearby"
+    },
+    {
+      "ProductName": "Sony PlayStation 5",
+      "ProductBrand": "Sony",
+      "ProductImageURL": "https://example.com/sony-playstation-5.jpg",
+      "QueryTitle": "Why is the PlayStation 5 so hard to find?",
+      "BoycottingReasonDetails": "Many users have reported that their PlayStation 5 units overheat during extended gaming sessions, which can lead to sudden shutdowns or reduced performance. "
+    },
+    {
+      "ProductName": "AirPods Pro",
+      "ProductBrand": "Apple",
+      "ProductImageURL": "https://example.com/airpods-pro.jpg",
+      "QueryTitle": "How durable are the AirPods Pro?",
+      "BoycottingReasonDetails": "Many users report that the AirPods Pro fail after minimal use. Are these earbuds built to last or are they too fragile?"
+    }
+  ]
+  
