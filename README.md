@@ -19,7 +19,6 @@ To get Tourio up and running on your local machine, follow these steps:
 - Node.js (v14 or higher)
 - npm (v6 or higher) or yarn (v1.22 or higher)
 - Firebase account
-- Stripe account
 
 
 ### Frontend Setup
