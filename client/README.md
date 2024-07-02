@@ -10,8 +10,6 @@
 - **User-Specific Query Tracking:** On the "My Queries" page, users can view a list of all the queries they have posted.
 - **User Contribution Recognition:** The "My Recommendations" page showcases the number of recommendations each user has given to others.
 
-## Selected Category
 
-**category_0009**
 
-For more information or to browse our products, please visit [AltChoice](https://alt-choice.web.app).
+
